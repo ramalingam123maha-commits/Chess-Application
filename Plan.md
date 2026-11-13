@@ -46,7 +46,7 @@
 * [x] Write the unit tests
 * [x] Build, run the tests, and fix failures
 * [x] Fill in `Readme.md` (project description written; update it as code is built)
-* [ ] Commit the work (in progress; done once the commit below succeeds)
+* [x] Commit the work (commit 1eb00ca on branch bc/7cf10857)
 
 ## 5. Implementation Steps (all done)
 1. Write `ChessGame.sln` and the three `.csproj` files, targeting .NET 8.
